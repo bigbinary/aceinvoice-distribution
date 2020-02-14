@@ -17,6 +17,24 @@ Time tracking application for Mac OS.
 - View monthly summary
 - Ability to change preferences for date & notifications
 
+### Screenshots
+
+1. Login Screen
+
+<img src="./screenshots/login.png" alt="AceInvoice Login">
+
+2. Timer Screen
+
+<img src="./screenshots/timer.png" alt="AceInvoice Timer">
+
+3. Monthly Summary
+
+<img src="./screenshots/monthly.png" alt="Monthly Summary">
+
+4. Preferences
+
+<img src="./screenshots/preferences.png" alt="Monthly Summary">
+
 ## How to install
 
 [prod]: https://github.com/bigbinary/aceinvoice-distribution/releases
